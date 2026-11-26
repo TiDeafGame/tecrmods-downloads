@@ -1,0 +1,82 @@
+{
+  "format": "tecrmods-github-v1",
+  "repo": "TiDeafGame/tecrmods-downloads",
+  "published_at": "2026-11-26T14:32:23.394Z",
+  "mods": [
+    {
+      "id": "2670bbb7-7bea-4629-8a82-01c58846b7c8",
+      "name": "FarFuits",
+      "slug": "farfuits",
+      "summary": "Um mod leve de agricultura inteligente que cria, planta, irriga, colhe, replanta e armazena as plantações automaticamente usando um único bloco.",
+      "summary_en": "A lightweight smart farming mod that automatically creates, plants, irrigates, harvests, replants, and stores crops using a single block.",
+      "description": "🍎| Farfuits\nSmart Farming, Made Simple!\n\nFarfuits adds a compact Farmer Drone Block that automates your farm without complicated machinery.\n\n🍎| Features\nAutomatic farmland creation and irrigation\nPlanting, harvesting, and replanting\nAdjustable farm sizes from 3×3 to 15×15\nCustom GUI with crop selection\nAutomatic/Mixed farming mode\nWheat, carrots, potatoes, beetroot, melons, and pumpkins\nAutomatic storage in a connected chest\nSimple ON/OFF control\nOne Block • One Chest • One Automated Farm\n\n🍎| Requirements\nMinecraft 26.3\nFabric Loader",
+      "description_en": "🍎| Farfuits\nSmart Farming, Made Simple!\n\nFarfuits adds a compact Farmer Drone Block that automates your farm without complicated machinery.\n\n🍎| Features\nAutomatic farmland creation and irrigation\nPlanting, harvesting, and replanting\nAdjustable farm sizes from 3×3 to 15×15\nCustom GUI with crop selection\nAutomatic/Mixed farming mode\nWheat, carrots, potatoes, beetroot, melons, and pumpkins\nAutomatic storage in a connected chest\nSimple ON/OFF control\nOne Block • One Chest • One Automated Farm\n\n🍎| Requirements\nMinecraft 26.3\nFabric Loader",
+      "howto_pt": "Desenvolvido por: CryonLabs / Tenvoria\nLicença: Todos os direitos reservados",
+      "howto_en": "Developed by: CryonLabs / Tenvoria\nLicense: All Rights Reserved",
+      "category": "Utilidades",
+      "video_url": "",
+      "license_text": "Distribuição gratuita para uso pessoal. Não republique o mod como se fosse seu. Consulte as condições e licenças aplicáveis aos componentes de terceiros.",
+      "featured": false,
+      "published": true,
+      "created_at": "2026-11-26T14:17:33.698Z",
+      "updated_at": "2026-11-26T14:18:24.709Z",
+      "image_url": "https://github.com/TiDeafGame/tecrmods-downloads/releases/download/tecrmod-2670bbb7-7bea-4629-8a82-01c58846b7c8/image-e9ec0b2e9cbb847e9bb21ca917698220cc64c895230f7eb4c158353d7576ba7a.jpg",
+      "gallery": [
+        "https://github.com/TiDeafGame/tecrmods-downloads/releases/download/tecrmod-2670bbb7-7bea-4629-8a82-01c58846b7c8/image-25e912e81e610bfe5c70b978c1bf64ce4633e780b6395990152210994032100b.gif"
+      ],
+      "videos": [],
+      "recipes": [
+        {
+          "name": "FarFuits",
+          "name_en": "FarFuits",
+          "result": "FarFuits:farfuits",
+          "notes": "",
+          "notes_en": "",
+          "grid": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "grid_images": [
+            "https://github.com/TiDeafGame/tecrmods-downloads/releases/download/tecrmod-2670bbb7-7bea-4629-8a82-01c58846b7c8/image-ca67b14f685bfe1972addf6b44692dab601fe8d27464a30aa8e65f16f716cab2.png",
+            "https://github.com/TiDeafGame/tecrmods-downloads/releases/download/tecrmod-2670bbb7-7bea-4629-8a82-01c58846b7c8/image-6d0e6a1fd54142cd3de649e1100c428733512b322a0b0a530f62eae9f86881ec.png",
+            "https://github.com/TiDeafGame/tecrmods-downloads/releases/download/tecrmod-2670bbb7-7bea-4629-8a82-01c58846b7c8/image-ca67b14f685bfe1972addf6b44692dab601fe8d27464a30aa8e65f16f716cab2.png",
+            "https://github.com/TiDeafGame/tecrmods-downloads/releases/download/tecrmod-2670bbb7-7bea-4629-8a82-01c58846b7c8/image-6d0e6a1fd54142cd3de649e1100c428733512b322a0b0a530f62eae9f86881ec.png",
+            "https://github.com/TiDeafGame/tecrmods-downloads/releases/download/tecrmod-2670bbb7-7bea-4629-8a82-01c58846b7c8/image-1a894275009591218d312850fcf57b7c4cfe22e8c0fd894eb639bb1e40a98005.png",
+            "https://github.com/TiDeafGame/tecrmods-downloads/releases/download/tecrmod-2670bbb7-7bea-4629-8a82-01c58846b7c8/image-ca67b14f685bfe1972addf6b44692dab601fe8d27464a30aa8e65f16f716cab2.png",
+            "https://github.com/TiDeafGame/tecrmods-downloads/releases/download/tecrmod-2670bbb7-7bea-4629-8a82-01c58846b7c8/image-ca67b14f685bfe1972addf6b44692dab601fe8d27464a30aa8e65f16f716cab2.png",
+            "https://github.com/TiDeafGame/tecrmods-downloads/releases/download/tecrmod-2670bbb7-7bea-4629-8a82-01c58846b7c8/image-ca67b14f685bfe1972addf6b44692dab601fe8d27464a30aa8e65f16f716cab2.png",
+            "https://github.com/TiDeafGame/tecrmods-downloads/releases/download/tecrmod-2670bbb7-7bea-4629-8a82-01c58846b7c8/image-ca67b14f685bfe1972addf6b44692dab601fe8d27464a30aa8e65f16f716cab2.png"
+          ],
+          "result_image": ""
+        }
+      ],
+      "releases": [
+        {
+          "id": "c9fe67fc-3aa6-4b3c-ac7f-be9a6a8d240c",
+          "mod_id": "2670bbb7-7bea-4629-8a82-01c58846b7c8",
+          "version": "farfuits-1.0.2+mc26.3",
+          "minecraft_version": "26.3",
+          "loader": "Fabric",
+          "changelog": "",
+          "sha256": "2827b765386a05188f6540a164d8ef0ad0cf18308e00a88f6c6d3e6293eb2578",
+          "size": 35791,
+          "created_at": "2026-11-26T14:18:24.709Z",
+          "downloads": 0,
+          "download_url": "https://github.com/TiDeafGame/tecrmods-downloads/releases/download/tecrmod-2670bbb7-7bea-4629-8a82-01c58846b7c8/jar-2827b765386a05188f6540a164d8ef0ad0cf18308e00a88f6c6d3e6293eb2578.jar"
+        }
+      ],
+      "latest_version": "farfuits-1.0.2+mc26.3",
+      "latest_minecraft": "26.3",
+      "latest_loader": "Fabric",
+      "downloads": 0
+    }
+  ],
+  "announcements": []
+}
